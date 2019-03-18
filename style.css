@@ -1,0 +1,29 @@
+table, th, tr, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 4px;
+}
+
+
+.thead{
+    font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.days{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+}
+
+.hide{
+    color: white;
+}
+
+.body{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    align-content: center
+}
+
